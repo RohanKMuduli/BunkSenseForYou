@@ -85,4 +85,4 @@ Check out the live application here:
 
 ## 👨‍💻 Author
 
-Created by **Sambit Moharana**
+Created by **Rohan Kumar Muduli**
